@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+pandas
+openpyxl
+pyarrow
+pydantic
+python-dotenv
+google-generativeai
